@@ -3,12 +3,28 @@
 </div>
 
 
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouzah.maurodesouzah&right_color=red&left_text=Visitors"  />
+
+
 # 💫 About Me:
 <br>19 y.o<br>Uzbekistan<br>Front End developer
 
 
 # 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@_dico) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:diyoroff777@gmail.com) 
+<div align="left">
+  <a href="https://instagram.com/_dico" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://t.me/diyorbekbakhtiyorov" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
+  <a href="+998917737573" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+  <a href="diyoroff77@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
 
 
 # 💻 Tech Stack:
@@ -25,3 +41,6 @@
 
   ## 💰 You can help me by Donating
    [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/_dico) 
+<div>
+  <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
